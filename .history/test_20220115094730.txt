@@ -1,0 +1,3 @@
+当前branch为bingyan
+我在这个分支所做的所有修改都只存在于这个bingyan branch中。
+大家就按照这个方法创建自己的分支
